@@ -3,7 +3,7 @@
 
 [@BrainPicker](http://twitter.com/BrainPicker) - Wonderful feed of curated articles, videos, pictures covering a range of topics.
 
-[@PBSMindShift](http://twitter.com/PBSMindShift) - Covers the digital media revolution. Mostly its own articles, but also occasionally links elsewhere, and has a Must Reads collection weekly.
+[@PBSMediaShift](http://twitter.com/PBSMediaShift) - Covers the digital media revolution. Mostly its own articles, but also occasionally links elsewhere, and has a Must Reads collection weekly.
 
 [@si_vault](http://twitter.com/si_vault) - Tweets photographs from Sports Illustrated's deep archives.
 
