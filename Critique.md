@@ -26,5 +26,5 @@ As suggested from the title of the article, the story highlights that 2014 has a
 
 ### Where is the original data?
 
-The article linked to the data that was made available by the NHTSA.
+The article [linked to the data](http://www-odi.nhtsa.dot.gov/downloads/flatfiles.cfm) that was made available by the NHTSA.
 
