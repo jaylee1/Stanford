@@ -8,11 +8,15 @@ The article draws on data obtained from the National Highway Traffic Safety Admi
 
 Roeder mentions in the article that he had to clean the data to “consider only unique NHTSA recall campaigns,” but it isn’t immediately made clear what that exactly means or entails. But from the data that was cleaned up, Roeder was able to break down how many total recalls were made every year since 1990, as well as how many vehicles were affected every year and how many of each make and model.
 
+![chart1](http://espnfivethirtyeight.files.wordpress.com/2014/09/roeder-datalab-vehicle_recalls-1.png?w=610&h=475)
+
 ### What are the limitations of the data?
 
 The data provided by the NHTSA cover a good amount of what the story calls for, but the data itself isn’t enough to get the context of the big picture. There are 41.2 million cars projected to be recalled in 2014, but how many is that in the large scheme of things? How many cars are there in the US, and what percentage of them are getting recalled each year?
 
 The data, at least discussed or depicted in the article, also don’t explain the driving forces behind the recalls. In 2014, there are projected to be a relatively modest amount of recall campaigns, but an absorbent amount of recalled vehicles. Was there a specific reason? Was there a specific campaign that covered a high number of vehicles?
+
+![chart2](http://espnfivethirtyeight.files.wordpress.com/2014/09/roeder-datalab-vehicle_recalls-3.png?w=610&h=588)
 
 
 ### What claims does the story make based on the data?
